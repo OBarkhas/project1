@@ -27,7 +27,7 @@ const Page = () => {
         className=" border border-indigo-600"
         value={inputValue}
         onChange={(e) => Handleinputvalue(e)}
-        placeholder="write here..."
+        placeholder="write something here okay !!!..."
       />
       <button onClick={addTodo} className="text-2xl">
         Add
